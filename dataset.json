@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Restaurant dataset for the Columbus metropolitan area in central Ohio. Covers the state capital's diverse and growing dining scene, filtered by the Restaurants category group. Includes verified business profiles, ratings, review sentiment, and competitive positioning. Refreshed weekly.",
+  "config_name": "All Restaurants in Columbus (Metro), Ohio, US",
+  "export_job_id": "8b80acac-d77e-49c8-91e4-0c45e12ba739",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 146329,
+  "location_name": "Columbus, OH",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-columbus-metro-ohio-us-sample-146329",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/146329/beamstation_146329_restaurants-us-columbusoh_SAMPLE_DIST.csv",
+  "sample_pct": 9.99,
+  "sample_records": 517,
+  "sample_sha256": "f02543c12736341693ce319c9fe48cb55d6a3e91d1e0a795329be633bbaf3011",
+  "sample_size_bytes": 1839633,
+  "total_records": 5174,
+  "updated_at": "2026-04-14T19:56:58.529186+00:00"
+}
